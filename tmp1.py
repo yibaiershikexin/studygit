@@ -1,6 +1,9 @@
 
 def a():
-    print 'aaaa'
+
+    print 'a'
+    print 'a'
+    print 'a'
 
 
 
